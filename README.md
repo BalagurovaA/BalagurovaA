@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BalagurovaA
 - 👀 I’m interested in C, C++, Swift
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Swift
 - 📫 How to reach me: tg:: @b0l0gur
 - ⚡ Fun fact: Now I'm learning in School21
 
