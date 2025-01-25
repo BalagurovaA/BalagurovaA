@@ -39,7 +39,7 @@
 |--------------|-------------|-------------|
 | [SmartCalc](https://github.com/BalagurovaA/C_SmartCalc) | Implementation of the calculator application in the C language | C, Qt, check.h, Makefile |
 | [BrickGame_Tetris](https://github.com/BalagurovaA/C_BrickGame_tetris) | Implementation of the Tetris game application in the C language | C, MVP, Qt, check.h, ncurses.h, Makefile |
-| [Matrix](https://github.com/BalagurovaA/C_CPP_matrix) | Implementation of a library for working with matrices in C in the C language | C, check.h, ncurses.h, Makefile |
+| [Matrix](https://github.com/BalagurovaA/C_CPP_matrix) | Implementation of a library for working with matrices in C in the C language | C, check.h, Makefile |
 
 
 
