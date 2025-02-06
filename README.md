@@ -29,9 +29,12 @@
 | [Swift_Bootcamp](https://github.com/BalagurovaA/Swift_Bootcamp)   | Executing a bootcamp on School 21 program in Swift language  | Swift |
 | [Diary_App](https://github.com/BalagurovaA/diary)  | A test assignment to create a diary app  | Swift, Realm  |
 
-<!-- ### C++
+### C++
 | Project name | Description | Stack       |
-|--------------|-------------|-------------|-->
+|--------------|-------------|-------------|
+| [BrickGame_Snake](https://github.com/BalagurovaA/CPP_BrickGame_snake) | Implementation of the Snake game application in the C++ language | C++, Qt, GTest, Makefile, MVC |
+| [SmartCalc](https://github.com/BalagurovaA/CPP_3DViewer) |Application for displaying 3D images in C++ language | C++, Qt, open GL GTest, Makefile |
+
 
 
 ### C
