@@ -35,8 +35,6 @@
 | [BrickGame_Snake](https://github.com/BalagurovaA/CPP_BrickGame_snake) | Implementation of the Snake game application in the C++ language | C++, Qt, GTest, Makefile, MVC |
 | [SmartCalc](https://github.com/BalagurovaA/CPP_3DViewer) |Application for displaying 3D images in C++ language | C++, Qt, open GL GTest, Makefile |
 
-
-
 ### C
 | Project name | Description | Stack       |
 |--------------|-------------|-------------|
