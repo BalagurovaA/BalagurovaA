@@ -1,6 +1,6 @@
 # Hi! I'm Anna!✌
 
-![gif-hello](./keyboard_gif.gif)
+<br> <img src="./keyboard_gif.gif" alt="gif-hello" width="600" />
 
 ## About me 
 
