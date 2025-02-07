@@ -1,5 +1,5 @@
 # Hi! I'm Anna!✌
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Swift+Developer&vCenter=True&height=40&size=35&width=1000&center=True&color=556270)](https://git.io/typing-svg)
 <br> <img src="./keyboard_gif.gif" alt="gif-hello" width="1200" />
 
 ## About me 
