@@ -1,4 +1,4 @@
-# Hi! I'm Anna!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuZ3dpYjViNDludTV3bnp1enVhaHR2eGpyNnFkajRlcXh4cnZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="100">
+# Hi! I'm Anna!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVuZ3dpYjViNDludTV3bnp1enVhaHR2eGpyNnFkajRlcXh4cnZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="80">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Swift+Developer&vCenter=True&height=40&size=35&width=1000&center=True&color=556270)](https://git.io/typing-svg)
 <br> <img src="./keyboard_gif.gif" alt="gif-hello" width="1200" />
 
