@@ -42,12 +42,17 @@
 | [BrickGame_Tetris](https://github.com/BalagurovaA/C_BrickGame_tetris) | Implementation of the Tetris game application in the C language | C, MVP, Qt, check.h, ncurses.h, Makefile |
 
 
-<!-- ### DevOps
+### DevOps
 | Project name | Description | Stack       |
-|--------------|-------------|-------------| -->
+|--------------|-------------|-------------|
+| [Linux Network](https://github.com/BalagurovaA/Linux_network) | Implementation of network configuration on virtual machines with OS Linux | VirtualBox, Linux |
+| [Docker](git@github.com:BalagurovaA/Docker.git) |jkjkjk |jkjkjkkjk  |
+| [CI/CD](git@github.com:BalagurovaA/CI-CD.git) | jkjkkj | ioioiooio |
 
-
-<!-- ### SQL
+### SQL
+| Project name | Description | Stack       |
+|--------------|-------------|-------------|
+| [SQL bootcamp](https://github.com/BalagurovaA/SQL_Bootcamp/tree/main) | SQL bootcamp in school 21 | SQL, PJAdmin, PostgreSQL |
 
 <!-- ##  Social media
 
