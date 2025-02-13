@@ -46,8 +46,8 @@
 | Project name | Description | Stack       |
 |--------------|-------------|-------------|
 | [Linux Network](https://github.com/BalagurovaA/Linux_network) | Implementation of network configuration on virtual machines with OS Linux | VirtualBox, Linux |
-| [Docker](git@github.com:BalagurovaA/Docker.git) |jkjkjk |jkjkjkkjk  |
-| [CI/CD](git@github.com:BalagurovaA/CI-CD.git) | jkjkkj | ioioiooio |
+| [Docker](https://github.com/BalagurovaA/Docker) | ////////////////////////////// |//////////////////////////////  |
+| [CI/CD](https://github.com/BalagurovaA/CI-CD) | ////////////////////////////// | ////////////////////////////// |
 
 ### SQL
 | Project name | Description | Stack       |
