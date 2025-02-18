@@ -14,7 +14,7 @@
 - **Languages**: C, C++, Swift
 - **Frameworks**: Qt, UIKit, SpriteKit
 - **Databases**: PostgreSQL, Realm
-- **Other**: Git, Bash, Docker, CI/CD, PJAdmin, CocoaPods, Alamofire JSON
+- **Other**: Git, Bash, Docker, CI/CD, PJAdmin, CocoaPods, Alamofire, JSON
 
 ## My stats on github
 
