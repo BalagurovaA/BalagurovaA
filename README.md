@@ -21,13 +21,14 @@
 ![BalagurovaA's Stats](https://github-readme-stats.vercel.app/api?username=BalagurovaA&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)![BalagurovaA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalagurovaA&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
-## My Project
+## My Projects
 
 ### Swift
 | Project name | Description | Stack       |
 |--------------|-------------|-------------|
 | [Swift_Bootcamp](https://github.com/BalagurovaA/Swift_Bootcamp)   | Executing a bootcamp on School 21 program in Swift language  | Swift |
-| [Diary_App](https://github.com/BalagurovaA/diary)  | A test assignment to create a diary app  | Swift, Realm  |
+| [Diary_App](https://github.com/BalagurovaA/diary)  | A test assignment to create a diary app  | Swift, Uikit, Realm  |
+| [Rogue Like](https://github.com/BalagurovaA/Rogue_Like)  | Rogue-like game  | Swift, UIkit, SpriteKit  |
 
 ### C++
 | Project name | Description | Stack       |
