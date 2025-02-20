@@ -55,10 +55,5 @@
 |--------------|-------------|-------------|
 | [SQL bootcamp](https://github.com/BalagurovaA/SQL_Bootcamp/tree/main) | SQL bootcamp in school 21 | SQL, PJAdmin, PostgreSQL |
 
-<!-- ##  Social media
-
-<!-- добавить лидкод -->
-<!-- - [Telegram](https://t.me/eflorentia)
-- [Email](mailto:a.sharafutdinovva@gmail.com) -->
 
 
